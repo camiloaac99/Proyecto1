@@ -7,5 +7,5 @@
 <body>
 <h1>Primer proyecto de GIT</h1>
 
-<p> Aca va un parrafo </p>
+
 </body>
